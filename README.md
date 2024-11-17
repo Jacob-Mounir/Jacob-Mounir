@@ -7,7 +7,7 @@ Frontend Developer & Designer
 I’ve been passionate about coding since my teens, starting with creating and selling WordPress sites. This experience sparked my interest in web development and led me to focus primarily on frontend work. I love designing user interfaces and crafting visually engaging and intuitive user experiences. Over time, I’ve expanded my skills and am now eager to continue growing and exploring new areas in development.
 
 * 🌍  I'm based in Gothenburg, Sweden
-* 🖥️  See my portfolio at [https://jacob-mounir.github.io/pfolio/](http://jacob-mounir.github.io/pfolio/)
+* 🖥️  See my portfolio at [https://jacob-mounir.github.io/portfolio/](http://jacob-mounir.github.io/portfolio/)
 * ✉️  You can contact me at [jacob+dev@agentsandscouts.com](mailto:jacob+dev@agentsandscouts.com)
 * 🧠  I'm learning Fullstack MERN
 * 🤝  I'm open to collaborating on fun projects
