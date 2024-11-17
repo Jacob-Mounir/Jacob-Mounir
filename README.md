@@ -9,7 +9,6 @@ I’ve been passionate about coding since my teens, starting with creating and s
 * 🌍  I'm based in Gothenburg, Sweden
 * 🖥️  See my portfolio at [https://jacob-mounir.github.io/portfolio/](http://jacob-mounir.github.io/portfolio/)
 * ✉️  You can contact me at [jacob+dev@agentsandscouts.com](mailto:jacob+dev@agentsandscouts.com)
-* 🧠  I'm learning Fullstack MERN
 * 🤝  I'm open to collaborating on fun projects
 
 ### Skills
