@@ -1,4 +1,4 @@
-Hi 👋 My name is Jacob Mounir
+Hi 👋 My name is Jacob
 =============================
 
 Frontend Developer & Designer
